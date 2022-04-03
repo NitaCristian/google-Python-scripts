@@ -6,7 +6,7 @@ This repo contains scripts in Bash and Python written for the assignments of the
 
 https://www.coursera.org/professional-certificates/google-it-automation
 
-## Certificate of ComplScripts made following the etion:
+## Certificate of Completion:
 
 https://www.coursera.org/account/accomplishments/professional-cert/7CXVVVDH63G4
 
