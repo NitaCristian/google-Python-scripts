@@ -1,2 +1,12 @@
 # Google-Python-Scripts
-Scripts made following the Google IT Automation with Python 
+
+This repo contains scripts in Bash and Python written for the assignments of the specialization below.
+
+## Google IT Automation with Python Specialization:
+
+https://www.coursera.org/professional-certificates/google-it-automation
+
+## Certificate of ComplScripts made following the etion:
+
+https://www.coursera.org/account/accomplishments/professional-cert/7CXVVVDH63G4
+

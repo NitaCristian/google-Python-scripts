@@ -1,0 +1,3 @@
+C:\Users\crist\Desktop\"Google Python"\scripts\input.py
+C:\Users\crist\Desktop\"Google Python"\scripts\hello.py
+C:\Users\crist\Desktop\"Google Python"\scripts\streams.py
